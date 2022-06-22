@@ -1,0 +1,17 @@
+.VListBox {
+  margin: 10px;
+  height: 300px;
+
+  .item {
+    padding: 10px 0;
+    .imgage {
+      width: 50px;
+      height: 50px;
+    }
+  }
+}
+.position {
+  color: #000000;
+  padding: 5px;
+  cursor: pointer;
+}
